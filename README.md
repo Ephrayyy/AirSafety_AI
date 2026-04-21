@@ -22,14 +22,6 @@ Le pipeline :
 4. identifie des liaisons a surveiller selon des regles simples,
 5. restitue les resultats dans un dashboard lisible.
 
-Pour un recruteur, ce projet permet de voir rapidement que je sais :
-
-- travailler a partir d'une vraie source publique,
-- structurer un ETL propre en Python,
-- produire des tables analytiques reutilisables,
-- transformer des donnees brutes en indicateurs decisionnels,
-- expliquer clairement une logique metier.
-
 ## Chiffres Cles
 
 Les chiffres ci-dessous correspondent aux sorties actuellement generees dans `data/processed/`.
@@ -356,6 +348,3 @@ Les principales limites sont :
 - les regles d'alerte sont volontairement simples et interpretables,
 - le dashboard est une couche de demonstration plus qu'un outil final.
 
-## Pitch Court
-
-"J'ai construit un mini-projet de monitoring a partir d'une source ouverte officielle de la DGAC sur le trafic aerien commercial. J'ai integre plusieurs fichiers historiques dans un pipeline Python, normalise les donnees, calcule des indicateurs mensuels et mis sous surveillance les liaisons presentant des evolutions atypiques. L'objectif etait de montrer une demarche d'ingenierie des donnees realiste, reproductible et orientee usage metier."
