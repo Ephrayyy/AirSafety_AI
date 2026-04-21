@@ -1,0 +1,3 @@
+date,year,month,segment_label,passengers,commercial_units,direct_flights,destinations,passengers_yoy_pct,direct_flights_yoy_pct,source_label,source_updated_at,source_url,latest_data_month,covered_years
+2024-12-01,2024,12,International,11259376,13128673,89638,101,6.17,2.4,DGAC - Trafic aerien commercial mensuel francais par paire d'aeroports par sens depuis 1990,2026-01-07,https://www.data.gouv.fr/api/1/datasets/r/c89f2fb5-df1f-4a53-adf5-27f719e44137,2024-12,1990-2024
+2024-12-01,2024,12,National,2219274,2357667,24408,2,-3.18,-3.7,DGAC - Trafic aerien commercial mensuel francais par paire d'aeroports par sens depuis 1990,2026-01-07,https://www.data.gouv.fr/api/1/datasets/r/c89f2fb5-df1f-4a53-adf5-27f719e44137,2024-12,1990-2024
