@@ -83,6 +83,36 @@ Ce schema montre que le projet est organise comme une petite chaine data :
 - une couche `tables finales`,
 - une couche `restitution`.
 
+## Apercu Visuel Du Dashboard
+
+### Vue de synthese
+
+![Vue de synthese du dashboard](assets/dashboard_overview.png)
+
+Cette vue reprend les principaux KPI du dernier mois disponible :
+
+- le mois de reference,
+- le volume de passagers,
+- le nombre de vols directs,
+- le nombre de liaisons placees en veille.
+
+### Tendance mensuelle
+
+![Evolution mensuelle des passagers](assets/dashboard_trend.png)
+
+Ce graphique permet de comparer l'evolution du trafic :
+
+- sur longue periode,
+- entre le segment international et le segment national,
+- avec une lecture immediate des creux et reprises.
+
+### Liaisons a surveiller
+
+![Top liaisons a surveiller](assets/dashboard_alerts.png)
+
+Cette visualisation met en avant les destinations du dernier mois
+qui presentent les variations les plus notables, avec une justification associee.
+
 ## Ce Que Fait Le Pipeline
 
 ### 1. Ingestion
