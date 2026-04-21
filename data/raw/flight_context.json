@@ -1,0 +1,2402 @@
+[
+  {
+    "flight_id": "FLIGHT-1000",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 125,
+    "occupancy_estimate": 97
+  },
+  {
+    "flight_id": "FLIGHT-1001",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 111,
+    "occupancy_estimate": 99
+  },
+  {
+    "flight_id": "FLIGHT-1002",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 301,
+    "occupancy_estimate": 111
+  },
+  {
+    "flight_id": "FLIGHT-1003",
+    "operator": "HOP",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 194,
+    "occupancy_estimate": 64
+  },
+  {
+    "flight_id": "FLIGHT-1004",
+    "operator": "HOP",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 193,
+    "occupancy_estimate": 60
+  },
+  {
+    "flight_id": "FLIGHT-1005",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 148,
+    "occupancy_estimate": 60
+  },
+  {
+    "flight_id": "FLIGHT-1006",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 107,
+    "occupancy_estimate": 211
+  },
+  {
+    "flight_id": "FLIGHT-1007",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 138,
+    "occupancy_estimate": 203
+  },
+  {
+    "flight_id": "FLIGHT-1008",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 108,
+    "occupancy_estimate": 185
+  },
+  {
+    "flight_id": "FLIGHT-1009",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 287,
+    "occupancy_estimate": 177
+  },
+  {
+    "flight_id": "FLIGHT-1010",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "STORM",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 70,
+    "occupancy_estimate": 170
+  },
+  {
+    "flight_id": "FLIGHT-1011",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 32,
+    "occupancy_estimate": 138
+  },
+  {
+    "flight_id": "FLIGHT-1012",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 349,
+    "occupancy_estimate": 177
+  },
+  {
+    "flight_id": "FLIGHT-1013",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 369,
+    "occupancy_estimate": 107
+  },
+  {
+    "flight_id": "FLIGHT-1014",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 191,
+    "occupancy_estimate": 81
+  },
+  {
+    "flight_id": "FLIGHT-1015",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 157,
+    "occupancy_estimate": 101
+  },
+  {
+    "flight_id": "FLIGHT-1016",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "STORM",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 272,
+    "occupancy_estimate": 72
+  },
+  {
+    "flight_id": "FLIGHT-1017",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 108,
+    "occupancy_estimate": 178
+  },
+  {
+    "flight_id": "FLIGHT-1018",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 115,
+    "occupancy_estimate": 56
+  },
+  {
+    "flight_id": "FLIGHT-1019",
+    "operator": "AFR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 323,
+    "occupancy_estimate": 55
+  },
+  {
+    "flight_id": "FLIGHT-1020",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 109,
+    "occupancy_estimate": 178
+  },
+  {
+    "flight_id": "FLIGHT-1021",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 49,
+    "occupancy_estimate": 208
+  },
+  {
+    "flight_id": "FLIGHT-1022",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 330,
+    "occupancy_estimate": 65
+  },
+  {
+    "flight_id": "FLIGHT-1023",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 216,
+    "occupancy_estimate": 86
+  },
+  {
+    "flight_id": "FLIGHT-1024",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 276,
+    "occupancy_estimate": 43
+  },
+  {
+    "flight_id": "FLIGHT-1025",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 84,
+    "occupancy_estimate": 137
+  },
+  {
+    "flight_id": "FLIGHT-1026",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 79,
+    "occupancy_estimate": 88
+  },
+  {
+    "flight_id": "FLIGHT-1027",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 244,
+    "occupancy_estimate": 168
+  },
+  {
+    "flight_id": "FLIGHT-1028",
+    "operator": "EZY",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 120,
+    "occupancy_estimate": 143
+  },
+  {
+    "flight_id": "FLIGHT-1029",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 298,
+    "occupancy_estimate": 184
+  },
+  {
+    "flight_id": "FLIGHT-1030",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 330,
+    "occupancy_estimate": 116
+  },
+  {
+    "flight_id": "FLIGHT-1031",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 109,
+    "occupancy_estimate": 169
+  },
+  {
+    "flight_id": "FLIGHT-1032",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 278,
+    "occupancy_estimate": 220
+  },
+  {
+    "flight_id": "FLIGHT-1033",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 54,
+    "occupancy_estimate": 181
+  },
+  {
+    "flight_id": "FLIGHT-1034",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 135,
+    "occupancy_estimate": 169
+  },
+  {
+    "flight_id": "FLIGHT-1035",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 66,
+    "occupancy_estimate": 203
+  },
+  {
+    "flight_id": "FLIGHT-1036",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 353,
+    "occupancy_estimate": 78
+  },
+  {
+    "flight_id": "FLIGHT-1037",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 186,
+    "occupancy_estimate": 50
+  },
+  {
+    "flight_id": "FLIGHT-1038",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 121,
+    "occupancy_estimate": 81
+  },
+  {
+    "flight_id": "FLIGHT-1039",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 359,
+    "occupancy_estimate": 67
+  },
+  {
+    "flight_id": "FLIGHT-1040",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 116,
+    "occupancy_estimate": 97
+  },
+  {
+    "flight_id": "FLIGHT-1041",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 260,
+    "occupancy_estimate": 142
+  },
+  {
+    "flight_id": "FLIGHT-1042",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 305,
+    "occupancy_estimate": 151
+  },
+  {
+    "flight_id": "FLIGHT-1043",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 97,
+    "occupancy_estimate": 105
+  },
+  {
+    "flight_id": "FLIGHT-1044",
+    "operator": "AFR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 340,
+    "occupancy_estimate": 124
+  },
+  {
+    "flight_id": "FLIGHT-1045",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 151,
+    "occupancy_estimate": 181
+  },
+  {
+    "flight_id": "FLIGHT-1046",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 0,
+    "occupancy_estimate": 117
+  },
+  {
+    "flight_id": "FLIGHT-1047",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 345,
+    "occupancy_estimate": 94
+  },
+  {
+    "flight_id": "FLIGHT-1048",
+    "operator": "EZY",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 120,
+    "occupancy_estimate": 212
+  },
+  {
+    "flight_id": "FLIGHT-1049",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 37,
+    "occupancy_estimate": 156
+  },
+  {
+    "flight_id": "FLIGHT-1050",
+    "operator": "EZY",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 352,
+    "occupancy_estimate": 41
+  },
+  {
+    "flight_id": "FLIGHT-1051",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 62,
+    "occupancy_estimate": 156
+  },
+  {
+    "flight_id": "FLIGHT-1052",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 258,
+    "occupancy_estimate": 149
+  },
+  {
+    "flight_id": "FLIGHT-1053",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 266,
+    "occupancy_estimate": 164
+  },
+  {
+    "flight_id": "FLIGHT-1054",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 276,
+    "occupancy_estimate": 60
+  },
+  {
+    "flight_id": "FLIGHT-1055",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 169,
+    "occupancy_estimate": 178
+  },
+  {
+    "flight_id": "FLIGHT-1056",
+    "operator": "TVF",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 294,
+    "occupancy_estimate": 137
+  },
+  {
+    "flight_id": "FLIGHT-1057",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 308,
+    "occupancy_estimate": 96
+  },
+  {
+    "flight_id": "FLIGHT-1058",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 207,
+    "occupancy_estimate": 82
+  },
+  {
+    "flight_id": "FLIGHT-1059",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 42,
+    "occupancy_estimate": 204
+  },
+  {
+    "flight_id": "FLIGHT-1060",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 167,
+    "occupancy_estimate": 126
+  },
+  {
+    "flight_id": "FLIGHT-1061",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 179,
+    "occupancy_estimate": 97
+  },
+  {
+    "flight_id": "FLIGHT-1062",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 64,
+    "occupancy_estimate": 161
+  },
+  {
+    "flight_id": "FLIGHT-1063",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 367,
+    "occupancy_estimate": 69
+  },
+  {
+    "flight_id": "FLIGHT-1064",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 192,
+    "occupancy_estimate": 141
+  },
+  {
+    "flight_id": "FLIGHT-1065",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 61,
+    "occupancy_estimate": 184
+  },
+  {
+    "flight_id": "FLIGHT-1066",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 215,
+    "occupancy_estimate": 165
+  },
+  {
+    "flight_id": "FLIGHT-1067",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 333,
+    "occupancy_estimate": 109
+  },
+  {
+    "flight_id": "FLIGHT-1068",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 125,
+    "occupancy_estimate": 62
+  },
+  {
+    "flight_id": "FLIGHT-1069",
+    "operator": "TVF",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 166,
+    "occupancy_estimate": 86
+  },
+  {
+    "flight_id": "FLIGHT-1070",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 284,
+    "occupancy_estimate": 42
+  },
+  {
+    "flight_id": "FLIGHT-1071",
+    "operator": "AFR",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 330,
+    "occupancy_estimate": 165
+  },
+  {
+    "flight_id": "FLIGHT-1072",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 188,
+    "occupancy_estimate": 161
+  },
+  {
+    "flight_id": "FLIGHT-1073",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 156,
+    "occupancy_estimate": 104
+  },
+  {
+    "flight_id": "FLIGHT-1074",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 110,
+    "occupancy_estimate": 163
+  },
+  {
+    "flight_id": "FLIGHT-1075",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 184,
+    "occupancy_estimate": 85
+  },
+  {
+    "flight_id": "FLIGHT-1076",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 64,
+    "occupancy_estimate": 203
+  },
+  {
+    "flight_id": "FLIGHT-1077",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 26,
+    "occupancy_estimate": 104
+  },
+  {
+    "flight_id": "FLIGHT-1078",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 77,
+    "occupancy_estimate": 78
+  },
+  {
+    "flight_id": "FLIGHT-1079",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 316,
+    "occupancy_estimate": 97
+  },
+  {
+    "flight_id": "FLIGHT-1080",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 30,
+    "occupancy_estimate": 196
+  },
+  {
+    "flight_id": "FLIGHT-1081",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 80,
+    "occupancy_estimate": 40
+  },
+  {
+    "flight_id": "FLIGHT-1082",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 359,
+    "occupancy_estimate": 156
+  },
+  {
+    "flight_id": "FLIGHT-1083",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 115,
+    "occupancy_estimate": 205
+  },
+  {
+    "flight_id": "FLIGHT-1084",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 291,
+    "occupancy_estimate": 113
+  },
+  {
+    "flight_id": "FLIGHT-1085",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 41,
+    "occupancy_estimate": 193
+  },
+  {
+    "flight_id": "FLIGHT-1086",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "STORM",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 294,
+    "occupancy_estimate": 190
+  },
+  {
+    "flight_id": "FLIGHT-1087",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 142,
+    "occupancy_estimate": 86
+  },
+  {
+    "flight_id": "FLIGHT-1088",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 53,
+    "occupancy_estimate": 81
+  },
+  {
+    "flight_id": "FLIGHT-1089",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 129,
+    "occupancy_estimate": 122
+  },
+  {
+    "flight_id": "FLIGHT-1090",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 185,
+    "occupancy_estimate": 199
+  },
+  {
+    "flight_id": "FLIGHT-1091",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 224,
+    "occupancy_estimate": 218
+  },
+  {
+    "flight_id": "FLIGHT-1092",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 282,
+    "occupancy_estimate": 144
+  },
+  {
+    "flight_id": "FLIGHT-1093",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "STORM",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 149,
+    "occupancy_estimate": 170
+  },
+  {
+    "flight_id": "FLIGHT-1094",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 306,
+    "occupancy_estimate": 170
+  },
+  {
+    "flight_id": "FLIGHT-1095",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 152,
+    "occupancy_estimate": 190
+  },
+  {
+    "flight_id": "FLIGHT-1096",
+    "operator": "EZY",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 278,
+    "occupancy_estimate": 136
+  },
+  {
+    "flight_id": "FLIGHT-1097",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 242,
+    "occupancy_estimate": 220
+  },
+  {
+    "flight_id": "FLIGHT-1098",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 51,
+    "occupancy_estimate": 152
+  },
+  {
+    "flight_id": "FLIGHT-1099",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 135,
+    "occupancy_estimate": 126
+  },
+  {
+    "flight_id": "FLIGHT-1100",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "STORM",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 320,
+    "occupancy_estimate": 164
+  },
+  {
+    "flight_id": "FLIGHT-1101",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 222,
+    "occupancy_estimate": 65
+  },
+  {
+    "flight_id": "FLIGHT-1102",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 191,
+    "occupancy_estimate": 150
+  },
+  {
+    "flight_id": "FLIGHT-1103",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 312,
+    "occupancy_estimate": 137
+  },
+  {
+    "flight_id": "FLIGHT-1104",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 235,
+    "occupancy_estimate": 105
+  },
+  {
+    "flight_id": "FLIGHT-1105",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "STORM",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 153,
+    "occupancy_estimate": 203
+  },
+  {
+    "flight_id": "FLIGHT-1106",
+    "operator": "TVF",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 195,
+    "occupancy_estimate": 186
+  },
+  {
+    "flight_id": "FLIGHT-1107",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 351,
+    "occupancy_estimate": 52
+  },
+  {
+    "flight_id": "FLIGHT-1108",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 317,
+    "occupancy_estimate": 104
+  },
+  {
+    "flight_id": "FLIGHT-1109",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 67,
+    "occupancy_estimate": 63
+  },
+  {
+    "flight_id": "FLIGHT-1110",
+    "operator": "TVF",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 139,
+    "occupancy_estimate": 82
+  },
+  {
+    "flight_id": "FLIGHT-1111",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 115,
+    "occupancy_estimate": 213
+  },
+  {
+    "flight_id": "FLIGHT-1112",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 188,
+    "occupancy_estimate": 212
+  },
+  {
+    "flight_id": "FLIGHT-1113",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 287,
+    "occupancy_estimate": 123
+  },
+  {
+    "flight_id": "FLIGHT-1114",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 19,
+    "occupancy_estimate": 117
+  },
+  {
+    "flight_id": "FLIGHT-1115",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 380,
+    "occupancy_estimate": 218
+  },
+  {
+    "flight_id": "FLIGHT-1116",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 143,
+    "occupancy_estimate": 48
+  },
+  {
+    "flight_id": "FLIGHT-1117",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 330,
+    "occupancy_estimate": 131
+  },
+  {
+    "flight_id": "FLIGHT-1118",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 327,
+    "occupancy_estimate": 192
+  },
+  {
+    "flight_id": "FLIGHT-1119",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 283,
+    "occupancy_estimate": 93
+  },
+  {
+    "flight_id": "FLIGHT-1120",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 74,
+    "occupancy_estimate": 73
+  },
+  {
+    "flight_id": "FLIGHT-1121",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 121,
+    "occupancy_estimate": 190
+  },
+  {
+    "flight_id": "FLIGHT-1122",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 32,
+    "occupancy_estimate": 161
+  },
+  {
+    "flight_id": "FLIGHT-1123",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "STORM",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 22,
+    "occupancy_estimate": 208
+  },
+  {
+    "flight_id": "FLIGHT-1124",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 251,
+    "occupancy_estimate": 153
+  },
+  {
+    "flight_id": "FLIGHT-1125",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 299,
+    "occupancy_estimate": 180
+  },
+  {
+    "flight_id": "FLIGHT-1126",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 359,
+    "occupancy_estimate": 69
+  },
+  {
+    "flight_id": "FLIGHT-1127",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 204,
+    "occupancy_estimate": 146
+  },
+  {
+    "flight_id": "FLIGHT-1128",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 34,
+    "occupancy_estimate": 63
+  },
+  {
+    "flight_id": "FLIGHT-1129",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 287,
+    "occupancy_estimate": 183
+  },
+  {
+    "flight_id": "FLIGHT-1130",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 147,
+    "occupancy_estimate": 193
+  },
+  {
+    "flight_id": "FLIGHT-1131",
+    "operator": "AFR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 55,
+    "occupancy_estimate": 129
+  },
+  {
+    "flight_id": "FLIGHT-1132",
+    "operator": "HOP",
+    "aircraft_type": "B737",
+    "weather_context": "STORM",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 318,
+    "occupancy_estimate": 197
+  },
+  {
+    "flight_id": "FLIGHT-1133",
+    "operator": "EZY",
+    "aircraft_type": "ATR72",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 173,
+    "occupancy_estimate": 129
+  },
+  {
+    "flight_id": "FLIGHT-1134",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 15,
+    "occupancy_estimate": 63
+  },
+  {
+    "flight_id": "FLIGHT-1135",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 166,
+    "occupancy_estimate": 185
+  },
+  {
+    "flight_id": "FLIGHT-1136",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 226,
+    "occupancy_estimate": 209
+  },
+  {
+    "flight_id": "FLIGHT-1137",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 220,
+    "occupancy_estimate": 68
+  },
+  {
+    "flight_id": "FLIGHT-1138",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 306,
+    "occupancy_estimate": 54
+  },
+  {
+    "flight_id": "FLIGHT-1139",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 254,
+    "occupancy_estimate": 150
+  },
+  {
+    "flight_id": "FLIGHT-1140",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 36,
+    "occupancy_estimate": 141
+  },
+  {
+    "flight_id": "FLIGHT-1141",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 363,
+    "occupancy_estimate": 203
+  },
+  {
+    "flight_id": "FLIGHT-1142",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 353,
+    "occupancy_estimate": 132
+  },
+  {
+    "flight_id": "FLIGHT-1143",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 158,
+    "occupancy_estimate": 126
+  },
+  {
+    "flight_id": "FLIGHT-1144",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 178,
+    "occupancy_estimate": 129
+  },
+  {
+    "flight_id": "FLIGHT-1145",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 335,
+    "occupancy_estimate": 59
+  },
+  {
+    "flight_id": "FLIGHT-1146",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 289,
+    "occupancy_estimate": 204
+  },
+  {
+    "flight_id": "FLIGHT-1147",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 140,
+    "occupancy_estimate": 191
+  },
+  {
+    "flight_id": "FLIGHT-1148",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 146,
+    "occupancy_estimate": 59
+  },
+  {
+    "flight_id": "FLIGHT-1149",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "STORM",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 378,
+    "occupancy_estimate": 50
+  },
+  {
+    "flight_id": "FLIGHT-1150",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "STORM",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 230,
+    "occupancy_estimate": 66
+  },
+  {
+    "flight_id": "FLIGHT-1151",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 224,
+    "occupancy_estimate": 174
+  },
+  {
+    "flight_id": "FLIGHT-1152",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 347,
+    "occupancy_estimate": 193
+  },
+  {
+    "flight_id": "FLIGHT-1153",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 129,
+    "occupancy_estimate": 208
+  },
+  {
+    "flight_id": "FLIGHT-1154",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 335,
+    "occupancy_estimate": 218
+  },
+  {
+    "flight_id": "FLIGHT-1155",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 65,
+    "occupancy_estimate": 211
+  },
+  {
+    "flight_id": "FLIGHT-1156",
+    "operator": "EZY",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 109,
+    "occupancy_estimate": 127
+  },
+  {
+    "flight_id": "FLIGHT-1157",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 276,
+    "occupancy_estimate": 174
+  },
+  {
+    "flight_id": "FLIGHT-1158",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 354,
+    "occupancy_estimate": 199
+  },
+  {
+    "flight_id": "FLIGHT-1159",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 229,
+    "occupancy_estimate": 99
+  },
+  {
+    "flight_id": "FLIGHT-1160",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 144,
+    "occupancy_estimate": 137
+  },
+  {
+    "flight_id": "FLIGHT-1161",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 246,
+    "occupancy_estimate": 135
+  },
+  {
+    "flight_id": "FLIGHT-1162",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 262,
+    "occupancy_estimate": 77
+  },
+  {
+    "flight_id": "FLIGHT-1163",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 191,
+    "occupancy_estimate": 100
+  },
+  {
+    "flight_id": "FLIGHT-1164",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "IMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 74,
+    "occupancy_estimate": 75
+  },
+  {
+    "flight_id": "FLIGHT-1165",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 9,
+    "occupancy_estimate": 105
+  },
+  {
+    "flight_id": "FLIGHT-1166",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 62,
+    "occupancy_estimate": 52
+  },
+  {
+    "flight_id": "FLIGHT-1167",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 323,
+    "occupancy_estimate": 171
+  },
+  {
+    "flight_id": "FLIGHT-1168",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 213,
+    "occupancy_estimate": 87
+  },
+  {
+    "flight_id": "FLIGHT-1169",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 199,
+    "occupancy_estimate": 160
+  },
+  {
+    "flight_id": "FLIGHT-1170",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 176,
+    "occupancy_estimate": 101
+  },
+  {
+    "flight_id": "FLIGHT-1171",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 89,
+    "occupancy_estimate": 215
+  },
+  {
+    "flight_id": "FLIGHT-1172",
+    "operator": "TVF",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 22,
+    "occupancy_estimate": 91
+  },
+  {
+    "flight_id": "FLIGHT-1173",
+    "operator": "AFR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 331,
+    "occupancy_estimate": 88
+  },
+  {
+    "flight_id": "FLIGHT-1174",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 380,
+    "occupancy_estimate": 152
+  },
+  {
+    "flight_id": "FLIGHT-1175",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 372,
+    "occupancy_estimate": 148
+  },
+  {
+    "flight_id": "FLIGHT-1176",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 338,
+    "occupancy_estimate": 115
+  },
+  {
+    "flight_id": "FLIGHT-1177",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 372,
+    "occupancy_estimate": 130
+  },
+  {
+    "flight_id": "FLIGHT-1178",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 347,
+    "occupancy_estimate": 80
+  },
+  {
+    "flight_id": "FLIGHT-1179",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 187,
+    "occupancy_estimate": 132
+  },
+  {
+    "flight_id": "FLIGHT-1180",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 39,
+    "occupancy_estimate": 186
+  },
+  {
+    "flight_id": "FLIGHT-1181",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "STORM",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 13,
+    "occupancy_estimate": 87
+  },
+  {
+    "flight_id": "FLIGHT-1182",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 313,
+    "occupancy_estimate": 113
+  },
+  {
+    "flight_id": "FLIGHT-1183",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 44,
+    "occupancy_estimate": 214
+  },
+  {
+    "flight_id": "FLIGHT-1184",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "WINDY",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 364,
+    "occupancy_estimate": 219
+  },
+  {
+    "flight_id": "FLIGHT-1185",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 13,
+    "occupancy_estimate": 132
+  },
+  {
+    "flight_id": "FLIGHT-1186",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 203,
+    "occupancy_estimate": 162
+  },
+  {
+    "flight_id": "FLIGHT-1187",
+    "operator": "EZY",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 238,
+    "occupancy_estimate": 214
+  },
+  {
+    "flight_id": "FLIGHT-1188",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 28,
+    "occupancy_estimate": 71
+  },
+  {
+    "flight_id": "FLIGHT-1189",
+    "operator": "EZY",
+    "aircraft_type": "ATR72",
+    "weather_context": "STORM",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 265,
+    "occupancy_estimate": 112
+  },
+  {
+    "flight_id": "FLIGHT-1190",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 257,
+    "occupancy_estimate": 204
+  },
+  {
+    "flight_id": "FLIGHT-1191",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 172,
+    "occupancy_estimate": 184
+  },
+  {
+    "flight_id": "FLIGHT-1192",
+    "operator": "HOP",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 327,
+    "occupancy_estimate": 47
+  },
+  {
+    "flight_id": "FLIGHT-1193",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 232,
+    "occupancy_estimate": 58
+  },
+  {
+    "flight_id": "FLIGHT-1194",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 160,
+    "occupancy_estimate": 121
+  },
+  {
+    "flight_id": "FLIGHT-1195",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 62,
+    "occupancy_estimate": 108
+  },
+  {
+    "flight_id": "FLIGHT-1196",
+    "operator": "TVF",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 81,
+    "occupancy_estimate": 123
+  },
+  {
+    "flight_id": "FLIGHT-1197",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 157,
+    "occupancy_estimate": 167
+  },
+  {
+    "flight_id": "FLIGHT-1198",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 25,
+    "occupancy_estimate": 112
+  },
+  {
+    "flight_id": "FLIGHT-1199",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 135,
+    "occupancy_estimate": 133
+  },
+  {
+    "flight_id": "FLIGHT-1200",
+    "operator": "RYR",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 147,
+    "occupancy_estimate": 58
+  },
+  {
+    "flight_id": "FLIGHT-1201",
+    "operator": "HOP",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 49,
+    "occupancy_estimate": 140
+  },
+  {
+    "flight_id": "FLIGHT-1202",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 20,
+    "occupancy_estimate": 51
+  },
+  {
+    "flight_id": "FLIGHT-1203",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 71,
+    "occupancy_estimate": 123
+  },
+  {
+    "flight_id": "FLIGHT-1204",
+    "operator": "HOP",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 260,
+    "occupancy_estimate": 176
+  },
+  {
+    "flight_id": "FLIGHT-1205",
+    "operator": "AFR",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 213,
+    "occupancy_estimate": 189
+  },
+  {
+    "flight_id": "FLIGHT-1206",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 26,
+    "occupancy_estimate": 189
+  },
+  {
+    "flight_id": "FLIGHT-1207",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "IMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 358,
+    "occupancy_estimate": 68
+  },
+  {
+    "flight_id": "FLIGHT-1208",
+    "operator": "AFR",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 256,
+    "occupancy_estimate": 196
+  },
+  {
+    "flight_id": "FLIGHT-1209",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "STORM",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 244,
+    "occupancy_estimate": 174
+  },
+  {
+    "flight_id": "FLIGHT-1210",
+    "operator": "RYR",
+    "aircraft_type": "A321",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 369,
+    "occupancy_estimate": 214
+  },
+  {
+    "flight_id": "FLIGHT-1211",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 152,
+    "occupancy_estimate": 113
+  },
+  {
+    "flight_id": "FLIGHT-1212",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 62,
+    "occupancy_estimate": 186
+  },
+  {
+    "flight_id": "FLIGHT-1213",
+    "operator": "TVF",
+    "aircraft_type": "E190",
+    "weather_context": "STORM",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 40,
+    "occupancy_estimate": 128
+  },
+  {
+    "flight_id": "FLIGHT-1214",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "STORM",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 356,
+    "occupancy_estimate": 109
+  },
+  {
+    "flight_id": "FLIGHT-1215",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 115,
+    "occupancy_estimate": 203
+  },
+  {
+    "flight_id": "FLIGHT-1216",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 70,
+    "occupancy_estimate": 41
+  },
+  {
+    "flight_id": "FLIGHT-1217",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 330,
+    "occupancy_estimate": 55
+  },
+  {
+    "flight_id": "FLIGHT-1218",
+    "operator": "EZY",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFPG",
+    "altitude_hundreds_ft": 90,
+    "occupancy_estimate": 49
+  },
+  {
+    "flight_id": "FLIGHT-1219",
+    "operator": "HOP",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFMN",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 171,
+    "occupancy_estimate": 112
+  },
+  {
+    "flight_id": "FLIGHT-1220",
+    "operator": "RYR",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 57,
+    "occupancy_estimate": 124
+  },
+  {
+    "flight_id": "FLIGHT-1221",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFLL",
+    "altitude_hundreds_ft": 98,
+    "occupancy_estimate": 84
+  },
+  {
+    "flight_id": "FLIGHT-1222",
+    "operator": "EZY",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 94,
+    "occupancy_estimate": 75
+  },
+  {
+    "flight_id": "FLIGHT-1223",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "WINDY",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 168,
+    "occupancy_estimate": 117
+  },
+  {
+    "flight_id": "FLIGHT-1224",
+    "operator": "EZY",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 341,
+    "occupancy_estimate": 70
+  },
+  {
+    "flight_id": "FLIGHT-1225",
+    "operator": "EZY",
+    "aircraft_type": "A321",
+    "weather_context": "VMC",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 151,
+    "occupancy_estimate": 134
+  },
+  {
+    "flight_id": "FLIGHT-1226",
+    "operator": "HOP",
+    "aircraft_type": "A321",
+    "weather_context": "STORM",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 191,
+    "occupancy_estimate": 146
+  },
+  {
+    "flight_id": "FLIGHT-1227",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 270,
+    "occupancy_estimate": 220
+  },
+  {
+    "flight_id": "FLIGHT-1228",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 76,
+    "occupancy_estimate": 82
+  },
+  {
+    "flight_id": "FLIGHT-1229",
+    "operator": "EZY",
+    "aircraft_type": "ATR72",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 261,
+    "occupancy_estimate": 154
+  },
+  {
+    "flight_id": "FLIGHT-1230",
+    "operator": "TVF",
+    "aircraft_type": "A320",
+    "weather_context": "IMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 344,
+    "occupancy_estimate": 118
+  },
+  {
+    "flight_id": "FLIGHT-1231",
+    "operator": "AFR",
+    "aircraft_type": "E190",
+    "weather_context": "VMC",
+    "departure_airport": "LFPG",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 358,
+    "occupancy_estimate": 56
+  },
+  {
+    "flight_id": "FLIGHT-1232",
+    "operator": "RYR",
+    "aircraft_type": "E190",
+    "weather_context": "WINDY",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 328,
+    "occupancy_estimate": 205
+  },
+  {
+    "flight_id": "FLIGHT-1233",
+    "operator": "EZY",
+    "aircraft_type": "ATR72",
+    "weather_context": "STORM",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 276,
+    "occupancy_estimate": 74
+  },
+  {
+    "flight_id": "FLIGHT-1234",
+    "operator": "HOP",
+    "aircraft_type": "E190",
+    "weather_context": "STORM",
+    "departure_airport": "LFLL",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 1,
+    "occupancy_estimate": 45
+  },
+  {
+    "flight_id": "FLIGHT-1235",
+    "operator": "AFR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFMN",
+    "altitude_hundreds_ft": 79,
+    "occupancy_estimate": 110
+  },
+  {
+    "flight_id": "FLIGHT-1236",
+    "operator": "HOP",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFPO",
+    "arrival_airport": "LFBO",
+    "altitude_hundreds_ft": 51,
+    "occupancy_estimate": 192
+  },
+  {
+    "flight_id": "FLIGHT-1237",
+    "operator": "HOP",
+    "aircraft_type": "B737",
+    "weather_context": "VMC",
+    "departure_airport": "LFML",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 276,
+    "occupancy_estimate": 95
+  },
+  {
+    "flight_id": "FLIGHT-1238",
+    "operator": "EZY",
+    "aircraft_type": "ATR72",
+    "weather_context": "IMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFPO",
+    "altitude_hundreds_ft": 344,
+    "occupancy_estimate": 122
+  },
+  {
+    "flight_id": "FLIGHT-1239",
+    "operator": "RYR",
+    "aircraft_type": "A320",
+    "weather_context": "VMC",
+    "departure_airport": "LFBO",
+    "arrival_airport": "LFML",
+    "altitude_hundreds_ft": 302,
+    "occupancy_estimate": 84
+  }
+]
